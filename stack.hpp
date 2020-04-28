@@ -62,6 +62,3 @@ void my_stack<T>::pop() {
     }
 }
 
-
-
-
