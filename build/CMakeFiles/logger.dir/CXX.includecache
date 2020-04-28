@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hyl/learn/mystack/main.cpp
+iostream
+-
+stack.hpp
+/home/hyl/learn/mystack/stack.hpp
+
+/home/hyl/learn/mystack/stack.hpp
+iostream
+-
+stdexcept
+-
+

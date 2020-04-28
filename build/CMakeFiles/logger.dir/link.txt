@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -fPIC -mavx   CMakeFiles/logger.dir/main.cpp.o  -o logger 

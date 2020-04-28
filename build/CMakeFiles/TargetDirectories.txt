@@ -1,0 +1,3 @@
+/home/hyl/learn/mystack/build/CMakeFiles/rebuild_cache.dir
+/home/hyl/learn/mystack/build/CMakeFiles/my_stack.dir
+/home/hyl/learn/mystack/build/CMakeFiles/edit_cache.dir
